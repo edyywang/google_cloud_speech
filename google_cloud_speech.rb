@@ -1,7 +1,4 @@
-# load 'google_cloud_vision.rb'
-# api = GoogleCloudVision.new # default as LABEL_DETECTION
-# api = GoogleCloudVision.new('SAFE_SEARCH_DETECTION')
-# api.upload_file('sample.jpg') # file name under images folder
+# load 'google_cloud_speech.rb'
 
 require 'dotenv'
 require 'google/apis/drive_v2'
